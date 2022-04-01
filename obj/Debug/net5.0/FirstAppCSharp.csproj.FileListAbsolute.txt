@@ -1,0 +1,15 @@
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/FirstAppCSharp.deps.json
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/FirstAppCSharp.runtimeconfig.json
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/FirstAppCSharp.runtimeconfig.dev.json
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/FirstAppCSharp.dll
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/ref/FirstAppCSharp.dll
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/bin/Debug/net5.0/FirstAppCSharp.pdb
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.csproj.AssemblyReference.cache
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.AssemblyInfoInputs.cache
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.AssemblyInfo.cs
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.csproj.CoreCompileInputs.cache
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.dll
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/ref/FirstAppCSharp.dll
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.pdb
+/Users/nagaipavel/Projects/FirstAppCSharp/FirstAppCSharp/obj/Debug/net5.0/FirstAppCSharp.genruntimeconfig.cache
